@@ -1,4 +1,11 @@
 {
+  "name": "bootstrap-template",
+  "version": "1.0.0",
+  "description": "bootstrap template for quick website creation",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Alec Feldhaus",
+  "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3"
   }
