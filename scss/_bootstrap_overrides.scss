@@ -1,0 +1,14 @@
+$container-max-widths: (
+  lg: 1199px,
+  xl: 1200px,
+);
+
+$theme-colors: (
+  "info-dark": #578c92,
+  "brand-primary": $brand-primary,
+  "brand-secondary": $brand-secondary,
+  "brand-tertiary": $brand-tertiary,
+  "brand-highlight": $brand-highlight,
+  "black": #000,
+  "brand-neutral": $brand-neutral,
+);
