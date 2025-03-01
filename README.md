@@ -4,6 +4,7 @@ A Bootstrap Template for getting your website started quickly using the power of
 
 
 Dev Environment Requirements:
+
 IDE:
   - Visual Studio Code
 Extensions:
