@@ -7,6 +7,7 @@ Dev Environment Requirements:
 
 IDE:
   - Visual Studio Code
+
 Extensions:
   - Prettier
   - Live Preview
